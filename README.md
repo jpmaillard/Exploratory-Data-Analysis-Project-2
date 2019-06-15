@@ -22,5 +22,5 @@ This script will, by using the base plotting system, plot the changes in emissio
 We will assume here that the coal information
 
 ## Notes:
-Each script will provide a "scriptName.png" file that will answer the questions.
+Each script will provide a "scriptName.png" file that will be used to answer their respective question.
 
